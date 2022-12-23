@@ -17,5 +17,5 @@ public class Test {
 
 
 	}
-
+	System.out.println("have a nice day");
 }
